@@ -1,0 +1,12 @@
+{
+    "name": "suzu-name/suzu-project",
+    "description": "A personal project for practice purposes.",
+    "version": "1.0.0",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "ezyang/htmlpurifier": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

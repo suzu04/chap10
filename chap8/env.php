@@ -1,0 +1,3 @@
+<?php
+ print $_ENV['PATH'];
+    // 結果：C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;……

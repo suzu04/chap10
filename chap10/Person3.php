@@ -7,3 +7,4 @@
     print "<p>ボクの名前は{$this->lastName}{$this->firstName}です。</p>";
   }
  }
+ ?>
